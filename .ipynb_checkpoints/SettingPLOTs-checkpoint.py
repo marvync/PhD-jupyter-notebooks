@@ -2,7 +2,7 @@ from matplotlib import rcParams
     
 rcParams['font.family'] = 'sans-serif'
 rcParams['font.sans-serif'] = ['Arial']
-rcParams['font.size'] = '11'
+rcParams['font.size'] = '10'
 # rcParams['font.style'] = 'normal'
 # rcParams['font.weight'] = 'medium'
 # rcParams['pdf.fonttype'] = '42'
@@ -14,8 +14,8 @@ rcParams['axes.axisbelow'] = True
 
 rcParams['axes.grid'] = True
 rcParams['grid.linestyle'] = ':'
-rcParams['grid.linewidth'] = 0.8
-rcParams['grid.alpha'] = 0.5
+rcParams['grid.linewidth'] = 0.6
+rcParams['grid.alpha'] = 0.3
 
 # rcParams['lines.linewidth'] = 1
 
